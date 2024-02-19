@@ -2,7 +2,7 @@
     <img src="./media/bida.png" alt="BiDA Lab" title="Bida Lab" align="right" height="150" width="350" target="_blank"/>
 </a>
 
-# Child-Computer Interaction database: ChildCIdbLong
+# ChildCIdbLong: Child-Computer Interaction database
 
 ## Table of content
 
@@ -37,7 +37,8 @@ Sorry, we are currently working on the license agreement and database
 pre-processing/anonymisation for publication. **We will update this section as soon as
 possible**.
 
-For more information, please send an email to [**atvs@uam.es**](mailto:atvs@uam.es).
+For more information, please send an email to
+[**juanc.ruiz@uam.es and ruben.tolosana@uam.es**](mailto:juanc.ruiz@uam.es;ruben.tolosana@uam.es?subject=ChildCIdbLong%20-%20Request%20for%20Access).
 
 <br/>
 
