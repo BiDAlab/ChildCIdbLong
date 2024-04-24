@@ -27,7 +27,7 @@
 J.C. Ruiz-Garcia, R. Tolosana, R. Vera-Rodriguez, A. Morales, J. Fierrez, J.
 Ortega-Garcia and J. Herreros-Rodriguez, **"ChildCIdbLong: Longitudinal
 Child-Computer Interaction Database and Quantitative Analysis for Child
-Development"**, *International Journal of Human-Computer Studies*, (UNDER REVIEW).
+Development"**, *(UNDER REVIEW)*.
 
 <br/>
 
