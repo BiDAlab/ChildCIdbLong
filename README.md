@@ -33,12 +33,23 @@ Development"**, *(UNDER REVIEW)*.
 
 ## <a name="download">Download ChildCIdbLong</a>
 
-Sorry, we are currently working on the license agreement and database
-pre-processing/anonymisation for publication. **We will update this section as soon as
-possible**.
+1. Download your corresponding license agreement:
+    
+    - [**Download license agreement**](https://bidalab.eps.uam.es/static/licenses/ChildCIdbLong-License.pdf), send by email one signed and scanned copy to **atvs@uam.es** according to the instructions given in point 2.
 
-For more information, please send an email to
-[**juanc.ruiz@uam.es and ruben.tolosana@uam.es**](mailto:juanc.ruiz@uam.es;ruben.tolosana@uam.es?subject=ChildCIdbLong%20-%20Request%20for%20Access).
+2. Send an email to [**atvs@uam.es**](mailto:atvs@uam.es), as follows:
+
+    - _Subject:_ **[DATABASE download: ChildCIdbLong]**
+
+    - _Body:_ Your name, e-mail, telephone number, organization, postal mail, purpose for which you will use the database, time and date at which you sent the email with the signed license agreement.
+
+3. Once the email copy of the license agreement has been received at ATVS, you will receive an email with a username, a password, and a time slot to download the database.
+
+4. [**Download the database**](https://bidalab.eps.uam.es/listdatabases?id=ChildCidbLong#page), for which you will need to provide the authentication information given in step 
+
+5. After you finish the download, please notify by email to [**atvs@uam.es**](mailto:atvs@uam.es) that you have successfully completed the transaction.
+
+6. For more information, please contact: [**atvs@uam.es**](mailto:atvs@uam.es)
 
 <br/>
 
