@@ -204,10 +204,7 @@ For further information on the database and on different applications where it h
 
 - R. Tolosana, J.C. Ruiz-Garcia, R. Vera-Rodriguez, J. Herreros-Rodriguez, S. Romero-Tapiador, A. Morales and J. Fierrez, **"Child-Computer Interaction: Recent Works, New Dataset, and Age Detection"**, *IEEE Transactions on Emerging Topics in Computing*, doi: [10.1109/TETC.2022.3150836](https://www.doi.org/10.1109/TETC.2022.3150836), 2022.
 
-- J.C. Ruiz-Garcia, C. Hojas, R. Tolosana, R. Vera-Rodriguez, A. Morales, J.
-  Fierrez, J. Ortega-Garcia and J. Herreros-Rodriguez, **"Children Age Group
-  Detection based on Human-Computer Interaction and Time Series Analysis"**,
-  *International Journal on Document Analysis and Recognition (IJDAR)*, in press, 2024.
+- J.C. Ruiz-Garcia, C. Hojas, R. Tolosana, R. Vera-Rodriguez, A. Morales, J. Fierrez, J. Ortega-Garcia and J. Herreros-Rodriguez, **"Children Age Group Detection based on Human-Computer Interaction and Time Series Analysis"**, *International Journal on Document Analysis and Recognition (IJDAR)*, doi: [10.1109/TETC.2022.3150836](https://doi.org/10.1007/s10032-024-00462-1) 2024.
 
 - J.C. Ruiz-Garcia, R. Tolosana, R. Vera-Rodriguez, J.
   Fierrez, J. Ortega-Garcia and J. Herreros-Rodriguez, **"ChildCI Framework: Analysis of Motor and Cognitive Development in Children-Computer Interaction for Age Detection"**,
