@@ -207,6 +207,6 @@ For further information on the database and on different applications where it h
 - J.C. Ruiz-Garcia, C. Hojas, R. Tolosana, R. Vera-Rodriguez, A. Morales, J. Fierrez, J. Ortega-Garcia and J. Herreros-Rodriguez, **"Children Age Group Detection based on Human-Computer Interaction and Time Series Analysis"**, *International Journal on Document Analysis and Recognition (IJDAR)*, doi: [10.1109/TETC.2022.3150836](https://doi.org/10.1007/s10032-024-00462-1), 2024.
 
 - J.C. Ruiz-Garcia, R. Tolosana, R. Vera-Rodriguez, J.
-  Fierrez, J. Ortega-Garcia and J. Herreros-Rodriguez, **"ChildCI Framework: Analysis of Motor and Cognitive Development in Children-Computer Interaction for Age Detection"**, doi: [10.1109/TETC.2022.3150836](https://www.doi.org/10.1109/TETC.2022.3150836), 2022.
+  Fierrez, J. Ortega-Garcia and J. Herreros-Rodriguez, **"ChildCI Framework: Analysis of Motor and Cognitive Development in Children-Computer Interaction for Age Detection"**, doi: [10.1109/TETC.2022.3150836](https://www.doi.org/10.1109/TETC.2022.3150836), 2024.
 
 All these articles are publicly available in the [publications](https://bidalab.eps.uam.es/listpublications) section of the BiDA group webpage. Please remember to reference the above articles on any work made public, whatever the form, based directly or indirectly on any part of the ChildCIdbLong database.
